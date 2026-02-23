@@ -1,0 +1,6 @@
+SpeechRecognition
+openai
+python-dotenv
+uvicorn
+fastapi
+pydantic
